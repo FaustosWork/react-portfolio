@@ -1,2 +1,2 @@
-# react-portfolio
+# React Portfolio
 Portfolio using React.js
